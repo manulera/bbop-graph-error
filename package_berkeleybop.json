@@ -1,0 +1,16 @@
+{
+  "name": "error_in_bbop",
+  "version": "1.0.0",
+  "description": "show the error in bbop library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "obographviz": "^0.4.2",
+    "bbop-graph": "github:berkeleybop/bbop-graph"
+  },
+  "type": "module"
+}
